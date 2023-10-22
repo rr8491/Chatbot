@@ -1,0 +1,34 @@
+Setup Slack Incoming Webhooks
+You will need to follow these steps for your Slack integration with Yotascale.
+
+For public slack channels, you can reuse the same Webhooks for multiple channels.
+
+For private channels, you need to setup a new Webhooks application per channel.
+
+These are the steps to add a new Slack Incoming Webhook:
+
+Open the link: https://api.slack.com/apps
+
+Sign-in using your workspace credentials
+
+If you are redirected to some other page after signing in, go back to the link shared above
+
+Click on the button “Create New App”
+
+Select the option “From scratch”
+
+Give a name to your app. For example: Yotascale
+
+Select a workspace from the drop-down menu
+
+Click on the “Create App” button
+
+On the left menu, click on “Incoming Webhooks” under the Features section
+
+Turn on the option to activate the incoming Webhooks
+
+Scroll down to the bottom and click on “Add New Webhook to Workspace.
+
+Search for the target Slack channel from the search box, and click on the Allow button
+
+It will take you back to the previous page, and the Slack Webhook URL and the Slack channel name will be visible there
