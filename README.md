@@ -1,0 +1,3 @@
+- Langchain, Pinecone
+- Will try to make own, cant upload existing because proprietary
+- Need some specific ideas tho..
